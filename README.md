@@ -1,5 +1,5 @@
-surveys
-=======
+hpc.social community surveys
+============================
 
 The following surveys have been carried out by the hpc-social organization to
 support its main work at the [hpc.social domain](https://hpc.social):
